@@ -1,7 +1,7 @@
 {
-  "name": "@skava/next-typescript-plugin",
+  "name": "next7-typescript-plugin",
   "version": "1.2.0",
-  "main": "index.js",
+  "main": "index.jss",
   "license": "MIT",
   "repository": "zeit/next-plugins",
   "dependencies": {
